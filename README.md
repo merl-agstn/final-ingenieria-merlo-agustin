@@ -17,4 +17,5 @@ Esta es una app que consume The Cat API para obtener fotos de gatitos.
 1. Clonar el repositorio
 2. Usando Docker:
 	docker build -t gatitos .
-	docker run --rm -p 8080:8080 gatitos"
+
+	docker run --rm -p 8080:8080 gatitos
